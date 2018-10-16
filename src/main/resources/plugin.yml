@@ -1,0 +1,16 @@
+main: me.codalot.warpme.Loader
+name: WarpMe
+version: 1.0
+
+author: Shoham Tzubery (SirCodalot)
+website: GitHub.com/SirCodalot
+
+commands:
+  warp:
+  warps:
+  makewarp:
+    aliases: [createwarp, setwarp]
+  deletewarp:
+    aliases: [delwarp]
+  editwarp:
+    aliases: [editw, warpe, ewarp]
